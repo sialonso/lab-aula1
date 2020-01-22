@@ -1,13 +1,11 @@
-<dadadadadadadadadad<<<<<< HEAD
+
 ola 3
 
 ola 1
 ola 2 
-=======
 ola 1
 ola 3
 olatchurma
 ola 2
 
 teste merge
->>>>>>> 9917df733dc321e65556ff210ef6b680b79ad0f7
